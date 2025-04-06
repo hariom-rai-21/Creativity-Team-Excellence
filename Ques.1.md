@@ -43,12 +43,7 @@ Key aspects include:
 Effective group formation is a foundation for achieving excellence in creative work, as it sets the stage for collaboration, innovation, and breakthrough thinking.
 
 ### Q.3. Elements of Group Structure.
-### Ans:Sure! Here's a clear definition of **Elements of Group Structure** in the context of creativity excellence:
-
----
-
-### **Elements of Group Structure**
-
+### Ans:
 **Group Structure** refers to the organized framework that defines how a group functions and interacts. In the context of **creativity excellence**, a well-defined group structure helps streamline collaboration, encourage participation, and enhance innovative outcomes.
 
 Key **elements** include:
