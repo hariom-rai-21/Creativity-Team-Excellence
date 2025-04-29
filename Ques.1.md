@@ -13,7 +13,7 @@
 4. **Interdependence**:  
    Members rely on one another to achieve the group’s goals; one member's actions can affect the others.
 
-5. **Structure**:  
+5. **Structure**:       
    Groups often have roles, norms, and a hierarchy (even informally) that guide how members interact.
 
 6. **Cohesion**:  
