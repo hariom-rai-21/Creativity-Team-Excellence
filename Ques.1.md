@@ -5,7 +5,7 @@
    A group must consist of at least two individuals who interact with one another.
 
 2. **Common Goal or Purpose**:  
-   Members of a group share a common objective or are working towards a similar purpose.
+   Members of a group share a common objective or are working towards a.      similar purpose.
 
 3. **Interaction**:  
    Group members communicate, share ideas, and influence.    each other.
