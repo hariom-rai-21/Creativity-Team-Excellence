@@ -8,7 +8,7 @@
    Members of a group share a common objective or are working towards a similar purpose.
 
 3. **Interaction**:  
-   Group members communicate, share ideas, and influence each other.
+   Group members communicate, share ideas, and influence.    each other.
 
 4. **Interdependence**:  
    Members rely on one another to achieve the group’s goals; one member's actions can affect the others.
