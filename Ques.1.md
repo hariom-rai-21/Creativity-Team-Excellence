@@ -2,7 +2,7 @@
 ### Ans: Here are some **key characteristics of a group**:
 
 1. **Two or More People**:  
-   A group must consist of at least two individuals who interact with one another.
+   A group must consist of at least two individuals who interact with one another.           
 
 2. **Common Goal or Purpose**:  
    Members of a group share a common objective or are working towards a.      similar purpose.
