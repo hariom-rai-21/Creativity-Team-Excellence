@@ -20,7 +20,7 @@
    This refers to the bond that holds the group together, often built through trust, respect, or shared experiences.
 
 7. **Identity**:  
-   Members often see themselves as part of the group, sharing a sense of belonging or unity.
+   Members often see.    themselves as part of the group, sharing a sense of belonging or unity.
 
 8. **Norms and Rules**:  
    Groups usually develop rules—formal or informal—that regulate behavior within the group.
